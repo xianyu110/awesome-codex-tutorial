@@ -8,7 +8,10 @@
 |---|---|
 | 在线首页 | [index.html](index.html) |
 | 国内官网 | [codex.chatgpt-plus.top/login](https://codex.chatgpt-plus.top/login) |
-| 备用网址 | [codex2.chatgpt-plus.top/login](https://codex2.chatgpt-plus.top/login) |
+| 备用网址 1 | [codex2.chatgpt-plus.top/login](https://codex2.chatgpt-plus.top/login) |
+| 备用网址 2 | [codex2.maynor1024.live](https://codex2.maynor1024.live) |
+| 备用网址 3 | [codex3.maynor1024.live](https://codex3.maynor1024.live) |
+| 备用网址 4 | [codex4.maynor1024.live](https://codex4.maynor1024.live) |
 | 购买入口 | [maynorai.jichiyun.sbs/buy/30](https://maynorai.jichiyun.sbs/buy/30) |
 | 备用店铺 | [momoai.czvip.cn/products/codex](https://momoai.czvip.cn/products/codex) |
 
@@ -489,9 +492,21 @@ https://momoai.czvip.cn/products/codex
 
 https://codex.chatgpt-plus.top/login
 
-备用网址：
+备用网址 1：
 
 https://codex2.chatgpt-plus.top/login
+
+备用网址 2：
+
+https://codex2.maynor1024.live
+
+备用网址 3：
+
+https://codex3.maynor1024.live
+
+备用网址 4：
+
+https://codex4.maynor1024.live
 
 购买入口：
 
