@@ -136,6 +136,7 @@ for s in \
   'https://codex2.chatgpt-plus.top/login' \
   'https://maynorai.jichiyun.sbs/buy/36' \
   'https://maynorai.jichiyun.sbs/buy/13' \
+  'https://maynorai.jichiyun.sbs/buy/7' \
   'https://momoai.czvip.cn/products/codex'; do
   git grep -F "$s" -- README.md index.html docs recipes reference >/dev/null && echo "FOUND $s" || echo "MISSING $s"
 done
