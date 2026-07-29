@@ -8,7 +8,7 @@
 | --- | --- |
 | 国内站登录 | `https://codex.chatgpt-plus.top/login` |
 | 备用入口 | `https://codex2.chatgpt-plus.top/login` |
-| Codex&GPTimage2 套餐 | `https://maynorai.jichiyun.sbs/buy/30` |
+| Codex 100刀额度 | `https://maynorai.jichiyun.sbs/buy/36` |
 | 备用店铺链接 | `https://momoai.czvip.cn/products/codex` |
 | 配置中转 API | `https://maynorai.jichiyun.sbs/buy/13` |
 | cc-switch 下载 | `https://github.com/farion1231/cc-switch/releases/` |
@@ -45,4 +45,3 @@
 - 登录入口是哪一个？
 - API 配置在哪里？
 - 哪些信息不能发给 Codex？
-

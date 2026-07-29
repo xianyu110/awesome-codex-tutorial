@@ -11,10 +11,10 @@ Codex 的可用额度、模型和部分云端能力与账号套餐有关。新�
 - 能处理支付方式、地区和账号问题的人。
 - 需要更完整 ChatGPT 功能的人。
 
-本仓库原有入口中，保留了一个充值/订阅相关链接：
+Codex 100刀额度购买入口：
 
 ```text
-https://maynorai.jichiyun.sbs/buy/7
+https://maynorai.jichiyun.sbs/buy/36
 ```
 
 备用店铺链接：
