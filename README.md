@@ -6,6 +6,8 @@
 
 | 用途 | 入口 |
 |---|---|
+| GPT 使用 | [chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home) |
+| Gemini 使用 | [geminiai.asia/list/#/home](https://geminiai.asia/list/#/home) |
 | 在线首页 | [index.html](index.html) |
 | 国内官网 | [codex.chatgpt-plus.top/login](https://codex.chatgpt-plus.top/login) |
 | 备用网址 1 | [codex2.chatgpt-plus.top/login](https://codex2.chatgpt-plus.top/login) |
