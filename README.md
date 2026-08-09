@@ -14,7 +14,7 @@
 | 备用网址 2 | [codex2.maynor1024.live](https://codex2.maynor1024.live) |
 | 备用网址 3 | [codex3.maynor1024.live](https://codex3.maynor1024.live) |
 | 备用网址 4 | [codex4.maynor1024.live](https://codex4.maynor1024.live) |
-| Codex 100刀额度 | [maynorai.jichiyun.sbs/buy/36](https://maynorai.jichiyun.sbs/buy/13) |
+| Codex&GPTimage2一个月套餐 | [maynorai.jichiyun.sbs/buy/13](https://maynorai.jichiyun.sbs/buy/13) |
 | 备用店铺 | [momoai.czvip.cn/products/codex](https://momoai.czvip.cn/products/codex) |
 
 ## 教程资源地图
@@ -132,7 +132,7 @@ Codex 国内站降低了这个门槛：
 
 Codex 国内站提供：
 
-> **Codex 100刀额度**
+> **Codex&GPTimage2一个月套餐**
 
 购买入口：
 
@@ -213,7 +213,7 @@ GPTimage2 适合需要图像生成和视觉内容的场景。
 
 > 页面、文案、图片、素材、发布。
 
-Codex 100刀额度可用于编程 Agent 和图像生成等真实工作流。
+Codex&GPTimage2一个月套餐可用于编程 Agent 和图像生成等真实工作流。
 
 ---
 
@@ -296,7 +296,7 @@ Codex 可以帮你把很多原本要切换工具完成的事情串起来。
 - 模型切换麻烦
 - 写代码和做图分离
 
-那么 Codex 100刀额度会更省心。
+那么 Codex&GPTimage2一个月套餐会更省心。
 
 ---
 
@@ -323,7 +323,7 @@ Codex 国内站不是 OpenAI 官方订阅。
 推荐按下面流程开始：
 
 ```text
-购买 Codex 100刀额度
+购买 Codex&GPTimage2一个月套餐
 → 按教程完成配置
 → 下载 Codex Desktop App
 → 新建项目文件夹
@@ -406,7 +406,7 @@ Codex 国内站和第三方中转方案的核心优势之一就是：
 
 可以。
 
-Codex 100刀额度支持使用 GPT-5.5。
+Codex&GPTimage2一个月套餐支持使用 GPT-5.5。
 
 ---
 
