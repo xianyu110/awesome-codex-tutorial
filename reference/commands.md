@@ -134,7 +134,7 @@ for f in index.html docs/index.html recipes/index.html reference/index.html read
 for s in \
   'https://codex.chatgpt-plus.top/login' \
   'https://codex2.chatgpt-plus.top/login' \
-  'https://maynorai.jichiyun.sbs/buy/36' \
+  'https://maynorai.jichiyun.sbs/buy/13' \
   'https://maynorai.jichiyun.sbs/buy/13' \
   'https://maynorai.jichiyun.sbs/buy/7' \
   'https://momoai.czvip.cn/products/codex'; do
