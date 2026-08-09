@@ -91,7 +91,7 @@ Codex 有多个入口。第一天不要全都装，先选一个跑通。
 | --- | --- |
 | 国内站登录 | `https://codex.chatgpt-plus.top/login` |
 | 备用入口 | `https://codex2.chatgpt-plus.top/login` |
-| Codex 100刀额度 | `https://maynorai.jichiyun.sbs/buy/13` |
+| Codex&GPTimage2一个月套餐 | `https://maynorai.jichiyun.sbs/buy/13` |
 | 配置中转 API | `https://maynorai.jichiyun.sbs/buy/13` |
 | 充值/订阅相关入口 | `https://maynorai.jichiyun.sbs/buy/7` |
 | 备用店铺链接 | `https://momoai.czvip.cn/products/codex` |
