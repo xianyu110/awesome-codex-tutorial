@@ -45,7 +45,7 @@
 - **无需海外手机号**
 - **无需复杂注册流程**
 - **无需折腾官方支付**
-- **一半价格即可使用 GPT-5.5 和 GPTimage2 模型**
+- **一半价格即可使用 GPT-5.6 Sol / Terra / Luna 和 GPTimage2 模型**
 - **支持 Codex 编程 Agent 和 GPTimage2 图像生成能力**
 - **适合小白、独立开发者、内容创作者和 AI 工具重度用户**
 
@@ -76,7 +76,7 @@ Codex 很强，但对国内用户来说，真正的门槛往往不是“会不�
 | 支付不方便 | 官方订阅对支付方式和地区有要求 |
 | 价格压力大 | 官方订阅、API、图像能力叠加后成本不低 |
 | 配置复杂 | 新手分不清官方订阅、中转 API、客户端、cc-switch |
-| 模型权限不清楚 | 不知道自己到底能不能用 GPT-5.5、Codex、图像模型 |
+| 模型权限不清楚 | 不知道自己到底能不能用 GPT-5.6 Sol / Terra / Luna、Codex、图像模型 |
 | 使用链路割裂 | 写代码和生成图片经常要切换不同工具 |
 
 Codex 国内站就是为了解决这些问题。
@@ -128,7 +128,7 @@ Codex 国内站降低了这个门槛：
 
 ---
 
-### 3. 一半价格即可使用 GPT-5.5 和 GPTimage2
+### 3. 一半价格即可使用 GPT-5.6 Sol / Terra / Luna 和 GPTimage2
 
 Codex 国内站提供：
 
@@ -144,7 +144,7 @@ https://momoai.czvip.cn/products/codex
 
 这个套餐的核心价值是：
 
-- 可以使用 **GPT-5.5**
+- 可以使用 **GPT-5.6 Sol / Terra / Luna**
 - 可以使用 **GPTimage2**
 - 价格更低
 - 门槛更低
@@ -154,9 +154,9 @@ https://momoai.czvip.cn/products/codex
 
 ---
 
-## GPT-5.5 能做什么？
+## GPT-5.6 Sol / Terra / Luna 能做什么？
 
-GPT-5.5 的重点不是简单聊天，而是更强的复杂任务处理能力。
+GPT-5.6 Sol / Terra / Luna 的重点不是简单聊天，而是更强的复杂任务处理能力。
 
 它适合：
 
@@ -169,7 +169,7 @@ GPT-5.5 的重点不是简单聊天，而是更强的复杂任务处理能力。
 - 多步骤任务规划
 - Agent 工作流执行
 
-如果你用 Codex 做项目，GPT-5.5 的价值会非常明显。
+如果你用 Codex 做项目，GPT-5.6 Sol / Terra / Luna 的价值会非常明显。
 
 它不只是回答问题，而是能围绕一个目标持续推进。
 
@@ -402,11 +402,11 @@ Codex 国内站和第三方中转方案的核心优势之一就是：
 
 ---
 
-### Q4：可以用 GPT-5.5 吗？
+### Q4：可以用 GPT-5.6 Sol / Terra / Luna 吗？
 
 可以。
 
-Codex&GPTimage2一个月套餐支持使用 GPT-5.5。
+Codex&GPTimage2一个月套餐支持使用 GPT-5.6 Sol / Terra / Luna。
 
 ---
 
@@ -468,7 +468,7 @@ Codex 国内站正式上线，主要解决的是国内用户最现实的几个�
 - 不想卡手机号
 - 不想处理复杂支付
 - 不想研究一堆配置
-- 想更低成本用 GPT-5.5
+- 想更低成本用 GPT-5.6 Sol / Terra / Luna
 - 想同时使用 GPTimage2
 - 想快速开始 AI 编程和内容创作
 
@@ -480,7 +480,7 @@ https://maynorai.jichiyun.sbs/buy/13
 
 https://momoai.czvip.cn/products/codex
 
-> **无需魔法，无需海外手机号，一半价格用上 GPT-5.5 和 GPTimage2。**
+> **无需魔法，无需海外手机号，一半价格用上 GPT-5.6 Sol / Terra / Luna 和 GPTimage2。**
 
 这不是又一个普通 AI 工具入口。
 
