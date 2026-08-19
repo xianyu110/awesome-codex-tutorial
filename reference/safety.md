@@ -74,9 +74,9 @@ if (!apiKey) {
 
 - `https://codex.chatgpt-plus.top/login`
 - `https://codex2.chatgpt-plus.top/login`
-- `https://maynorai.jichiyun.sbs/buy/13`
-- `https://maynorai.jichiyun.sbs/buy/13`
-- `https://maynorai.jichiyun.sbs/buy/7`
+- `https://momoai.dadoudou117.com/buy/13`
+- `https://momoai.dadoudou117.com/buy/13`
+- `https://momoai.dadoudou117.com/buy/7`
 - `https://momoai.czvip.cn/products/codex`
 
 使用第三方中转时要注意：

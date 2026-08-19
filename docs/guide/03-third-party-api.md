@@ -8,9 +8,9 @@
 | --- | --- |
 | 国内站登录 | `https://codex.chatgpt-plus.top/login` |
 | 备用入口 | `https://codex2.chatgpt-plus.top/login` |
-| Codex&GPTimage2一个月套餐 | `https://maynorai.jichiyun.sbs/buy/13` |
+| Codex&GPTimage2一个月套餐 | `https://momoai.dadoudou117.com/buy/13` |
 | 备用店铺链接 | `https://momoai.czvip.cn/products/codex` |
-| 配置中转 API | `https://maynorai.jichiyun.sbs/buy/13` |
+| 配置中转 API | `https://momoai.dadoudou117.com/buy/13` |
 | cc-switch 下载 | `https://github.com/farion1231/cc-switch/releases/` |
 | 完整文档 | `https://gitee.com/the_efforts_paid_offf/codex` |
 

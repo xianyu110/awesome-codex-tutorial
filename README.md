@@ -14,7 +14,7 @@
 | 备用网址 2 | [codex2.maynor1024.live](https://codex2.maynor1024.live) |
 | 备用网址 3 | [codex3.maynor1024.live](https://codex3.maynor1024.live) |
 | 备用网址 4 | [codex4.maynor1024.live](https://codex4.maynor1024.live) |
-| Codex&GPTimage2一个月套餐 | [maynorai.jichiyun.sbs/buy/13](https://maynorai.jichiyun.sbs/buy/13) |
+| Codex&GPTimage2一个月套餐 | [momoai.dadoudou117.com/buy/13](https://momoai.dadoudou117.com/buy/13) |
 | 备用店铺 | [momoai.czvip.cn/products/codex](https://momoai.czvip.cn/products/codex) |
 
 ## 教程资源地图
@@ -136,7 +136,7 @@ Codex 国内站提供：
 
 购买入口：
 
-https://maynorai.jichiyun.sbs/buy/13
+https://momoai.dadoudou117.com/buy/13
 
 备用店铺链接：
 
@@ -336,7 +336,7 @@ Codex 国内站不是 OpenAI 官方订阅。
 
 购买入口：
 
-https://maynorai.jichiyun.sbs/buy/13
+https://momoai.dadoudou117.com/buy/13
 
 备用店铺链接：
 
@@ -474,7 +474,7 @@ Codex 国内站正式上线，主要解决的是国内用户最现实的几个�
 
 如果你之前一直想试 Codex，但卡在入口上，现在可以直接从这里开始：
 
-https://maynorai.jichiyun.sbs/buy/13
+https://momoai.dadoudou117.com/buy/13
 
 备用店铺链接：
 
@@ -512,7 +512,7 @@ https://codex4.maynor1024.live
 
 购买入口：
 
-https://maynorai.jichiyun.sbs/buy/13
+https://momoai.dadoudou117.com/buy/13
 
 备用店铺链接：
 
