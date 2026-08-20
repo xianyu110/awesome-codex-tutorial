@@ -132,8 +132,8 @@ for f in index.html docs/index.html recipes/index.html reference/index.html read
 
 ```bash
 for s in \
-  'https://codex.chatgpt-plus.top/login' \
-  'https://codex2.chatgpt-plus.top/login' \
+  'https://momoai.asia/login' \
+  'https://codex.trygpt.asia/login' \
   'https://momoai.dadoudou117.com/buy/13' \
   'https://momoai.dadoudou117.com/buy/13' \
   'https://momoai.dadoudou117.com/buy/7' \

@@ -9,11 +9,11 @@
 | GPT 使用 | [chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home) |
 | Gemini 使用 | [geminiai.asia/list/#/home](https://geminiai.asia/list/#/home) |
 | 在线首页 | [index.html](index.html) |
-| 国内官网 | [codex.chatgpt-plus.top/login](https://codex.chatgpt-plus.top/login) |
-| 备用网址 1 | [codex2.chatgpt-plus.top/login](https://codex2.chatgpt-plus.top/login) |
-| 备用网址 2 | [codex2.maynor1024.live](https://codex2.maynor1024.live) |
-| 备用网址 3 | [codex3.maynor1024.live](https://codex3.maynor1024.live) |
-| 备用网址 4 | [codex4.maynor1024.live](https://codex4.maynor1024.live) |
+| 国内官网 | [momoai.asia/login](https://momoai.asia/login) |
+| 备用网址 1 | [codex.trygpt.asia/login](https://codex.trygpt.asia/login) |
+| 备用网址 2 | [codex.trygpt.asia](https://codex.trygpt.asia) |
+| 备用网址 3 | [codex.trygpt.asia](https://codex.trygpt.asia) |
+| 备用网址 4 | [codex.trygpt.asia](https://codex.trygpt.asia) |
 | Codex&GPTimage2一个月套餐 | [momoai.dadoudou117.com/buy/13](https://momoai.dadoudou117.com/buy/13) |
 | 备用店铺 | [momoai.czvip.cn/products/codex](https://momoai.czvip.cn/products/codex) |
 
@@ -492,23 +492,23 @@ https://momoai.czvip.cn/products/codex
 
 国内官网入口：
 
-https://codex.chatgpt-plus.top/login
+https://momoai.asia/login
 
 备用网址 1：
 
-https://codex2.chatgpt-plus.top/login
+https://codex.trygpt.asia/login
 
 备用网址 2：
 
-https://codex2.maynor1024.live
+https://codex.trygpt.asia
 
 备用网址 3：
 
-https://codex3.maynor1024.live
+https://codex.trygpt.asia
 
 备用网址 4：
 
-https://codex4.maynor1024.live
+https://codex.trygpt.asia
 
 购买入口：
 

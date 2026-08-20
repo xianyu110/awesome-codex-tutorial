@@ -20,8 +20,8 @@
 
 关键链接包括：
 
-- `https://codex.chatgpt-plus.top/login`
-- `https://codex2.chatgpt-plus.top/login`
+- `https://momoai.asia/login`
+- `https://codex.trygpt.asia/login`
 - `https://momoai.dadoudou117.com/buy/13`
 - `https://momoai.dadoudou117.com/buy/13`
 - `https://momoai.dadoudou117.com/buy/7`

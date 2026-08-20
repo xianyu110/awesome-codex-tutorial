@@ -89,8 +89,8 @@ Codex 有多个入口。第一天不要全都装，先选一个跑通。
 
 | 用途 | 链接 |
 | --- | --- |
-| 国内站登录 | `https://codex.chatgpt-plus.top/login` |
-| 备用入口 | `https://codex2.chatgpt-plus.top/login` |
+| 国内站登录 | `https://momoai.asia/login` |
+| 备用入口 | `https://codex.trygpt.asia/login` |
 | Codex&GPTimage2一个月套餐 | `https://momoai.dadoudou117.com/buy/13` |
 | 配置中转 API | `https://momoai.dadoudou117.com/buy/13` |
 | 充值/订阅相关入口 | `https://momoai.dadoudou117.com/buy/7` |
