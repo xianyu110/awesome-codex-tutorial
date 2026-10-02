@@ -74,8 +74,8 @@
 
 - `https://momoai.asia/login`
 - `https://codex.trygpt.asia/login`
-- `https://momoai.dadoudou117.com/buy/13`
-- `https://momoai.dadoudou117.com/buy/13`
-- `https://momoai.dadoudou117.com/buy/7`
+- `https://momoai.czvip.cn/products/m13`
+- `https://momoai.czvip.cn/products/m13`
+- `https://momoai.czvip.cn/products/gptplus2`
 - `https://momoai.czvip.cn/products/codex`
 - `https://gitee.com/the_efforts_paid_offf/codex`
