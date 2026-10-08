@@ -22,8 +22,8 @@
 
 - `https://momoai.asia/login`
 - `https://codex.trygpt.asia/login`
-- `https://momoai.czvip.cn/products/m13`
-- `https://momoai.czvip.cn/products/m13`
+- `https://wzyp.cn/item/aus7lo`
+- `https://wzyp.cn/item/aus7lo`
 - `https://momoai.czvip.cn/products/gptplus2`
 - `https://momoai.czvip.cn/products/codex`
 

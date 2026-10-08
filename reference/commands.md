@@ -134,8 +134,8 @@ for f in index.html docs/index.html recipes/index.html reference/index.html read
 for s in \
   'https://momoai.asia/login' \
   'https://codex.trygpt.asia/login' \
-  'https://momoai.czvip.cn/products/m13' \
-  'https://momoai.czvip.cn/products/m13' \
+  'https://wzyp.cn/item/aus7lo' \
+  'https://wzyp.cn/item/aus7lo' \
   'https://momoai.czvip.cn/products/gptplus2' \
   'https://momoai.czvip.cn/products/codex'; do
   git grep -F "$s" -- README.md index.html docs recipes reference >/dev/null && echo "FOUND $s" || echo "MISSING $s"

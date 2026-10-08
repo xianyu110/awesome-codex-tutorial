@@ -91,8 +91,8 @@ Codex 有多个入口。第一天不要全都装，先选一个跑通。
 | --- | --- |
 | 国内站登录 | `https://momoai.asia/login` |
 | 备用入口 | `https://codex.trygpt.asia/login` |
-| Codex&GPTimage2一个月套餐 | `https://momoai.czvip.cn/products/m13` |
-| 配置中转 API | `https://momoai.czvip.cn/products/m13` |
+| Codex&GPTimage2一个月套餐 | `https://wzyp.cn/item/aus7lo` |
+| 配置中转 API | `https://wzyp.cn/item/aus7lo` |
 | 充值/订阅相关入口 | `https://momoai.czvip.cn/products/gptplus2` |
 | 备用店铺链接 | `https://momoai.czvip.cn/products/codex` |
 | 完整文档 | `https://gitee.com/the_efforts_paid_offf/codex` |
