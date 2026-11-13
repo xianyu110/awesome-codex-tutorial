@@ -7,7 +7,7 @@
 | 用途 | 入口 |
 |---|---|
 | GPT 使用 | [chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home) |
-| Gemini 使用 | [geminiai.asia/list/#/home](https://geminiai.asia/list/#/home) |
+| Gemini 使用 | [gemini-ultra.top/list/#/home](https://gemini-ultra.top/list/#/home) |
 | 在线首页 | [index.html](index.html) |
 | 国内官网 | [momoai.asia/login](https://momoai.asia/login) |
 | 备用网址 1 | [codex.trygpt.asia/login](https://codex.trygpt.asia/login) |
